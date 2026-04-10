@@ -1,3 +1,6 @@
+네이버 지도 환경에서 대규모 H3 인덱스 영역 렌더링 시 발생하는 성능 저하 문제를 분석하고 최적화하기 위한 실험적 프로젝트
+![screenshot](screenshot.png)
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
